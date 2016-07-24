@@ -1,0 +1,10 @@
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\bin\Release\EasyChat.exe.config
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\bin\Release\EasyChat.exe
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\bin\Release\EasyChat.pdb
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.Form1.resources
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.Form2.resources
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.Properties.Resources.resources
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.csproj.GenerateResource.Cache
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.exe
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.pdb
+C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Release\EasyChat.csprojResolveAssemblyReference.cache
