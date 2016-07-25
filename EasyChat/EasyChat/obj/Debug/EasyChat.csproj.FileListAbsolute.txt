@@ -17,3 +17,6 @@ C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Debug\EasyChat.Form1.resources
 C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Debug\EasyChat.Form2.resources
 C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Debug\EasyChat.Properties.Resources.resources
 C:\Users\kolga\Desktop\с#\EasyChat\EasyChat\obj\Debug\EasyChat.csproj.GenerateResource.Cache
+C:\Users\kolga\Desktop\easyChat\EasyChat\EasyChat\bin\Debug\EasyChat.exe.config
+C:\Users\kolga\Desktop\easyChat\EasyChat\EasyChat\obj\Debug\EasyChat.exe
+C:\Users\kolga\Desktop\easyChat\EasyChat\EasyChat\obj\Debug\EasyChat.pdb

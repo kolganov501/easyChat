@@ -53,6 +53,7 @@ namespace EasyChat
                     byte[] buffer = new byte[1024];
                     buffer = Encoding.UTF8.GetBytes(message);
                     Client.Send(buffer);
+                    richTextBox2.Clear();
                 }
             }
         }
@@ -135,7 +136,6 @@ namespace EasyChat
                 th.Abort();
             if (Client != null)
                 Client.Close();
-            Application.Exit();
         }
 
         private void richTextBox2_KeyDown(object sender, KeyEventArgs e)
